@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A82FF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Deep+Learning+Explorer+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A82FF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%92%BB;Web+Development+Enthusiast+%F0%9F%8C%90;DSA+%26+Problem+Solver+%F0%9F%A7%A9;AI%2FML+Explorer+%F0%9F%A4%96;Building+Scalable+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
@@ -20,17 +20,16 @@
 const shaista = {
     pronouns: "she" | "her",
     code: ["Python", "JavaScript", "C++", "Java"],
-    askMeAbout: ["Machine Learning", "Deep Learning", "Web Dev", "Network Automation"],
+    askMeAbout: ["Full Stack Development", "AI/ML", "DSA", "Web Dev"],
     technologies: {
         machineLearning: ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
-        frontEnd: ["React", "Next.js", "HTML", "CSS"],
         frontEnd: ["React", "Next.js", "HTML", "CSS"],
         backEnd: ["Node.js", "Flask", "Spring Boot"],
         databases: ["MySQL", "MongoDB"],
         cloud: ["GCP", "Docker"],
         tools: ["Git", "Jupyter", "VS Code", "Tableau"]
     },
-    currentFocus: "Building Production-Ready ML Systems",
+    currentFocus: "Full Stack Development & Building Production-Ready Systems",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
@@ -77,11 +76,13 @@ const shaista = {
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-### 🖥️ Languages
+### 🖥️ Languages & DSA
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
 
@@ -91,55 +92,71 @@ const shaista = {
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> What I'm Working On
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
 
 <div align="center">
 
-### 🤖 Fine-tuning Open-Source LLM
-<p align="left">
-Fine-tuned pre-trained language models on domain-specific datasets using custom prompt engineering and data augmentation strategies. Achieved <strong>12% improvement</strong> in task-specific accuracy with optimized inference pipeline.
-</p>
-<p><strong>Tech Stack:</strong> Python • PyTorch • Hugging Face Transformers • CUDA • Scikit-learn</p>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 Fine-tuned Open-Source LLM</h3>
+<div align="center">  
+<br>
+<p><strong>Python, PyTorch, Hugging Face, CUDA</strong></p>
+<p>Fine-tuned pre-trained LLMs with custom prompt engineering achieving <strong>12% accuracy improvement</strong>. Deployed for real-time inference.</p>
+</div>
+</td>
 
----
+<td width="50%">
+<h3 align="center">🛡️ Quantum-Classical IDS</h3>
+<div align="center">  
+<br>
+<p><strong>Python, XGBoost, Qiskit, Streamlit</strong></p>
+<p>Hybrid intrusion detection system achieving <strong>99.9% accuracy</strong> with interactive Streamlit dashboard.</p>
+</div>
+</td>
+</tr>
 
-### 🛡️ Quantum-Classical Intrusion Detection System
-<p align="left">
-Hybrid IDS combining classical machine learning (XGBoost, LightGBM, CatBoost) with quantum computing algorithms. Implemented preprocessing techniques (SMOTE, PCA, angle embedding) achieving <strong>99.9% accuracy</strong> on classical models and <strong>97% on quantum models</strong>. Deployed as interactive Streamlit web app.
-</p>
-<p><strong>Tech Stack:</strong> Python • Scikit-learn • XGBoost • Qiskit • Streamlit</p>
+<tr>
+<td width="50%">
+<h3 align="center">📄 Research Paper Implementation</h3>
+<div align="center">  
+<br>
+<p><strong>TensorFlow, PyTorch, NumPy</strong></p>
+<p>Reproduced SOTA ML algorithm from scratch with <strong>+10% improvement</strong> over baseline accuracy.</p>
+</div>
+</td>
 
----
+<td width="50%">
+<h3 align="center">🌐 Network Monitoring System</h3>
+<div align="center">  
+<br>
+<p><strong>Python, Flask, Netmiko, MySQL</strong></p>
+<p>Automated network monitoring with real-time dashboards for device tracking and performance metrics.</p>
+</div>
+</td>
+</tr>
 
-### 📄 Research Paper Implementation
-<p align="left">
-Reproduced state-of-the-art ML algorithm from scratch, implementing novel techniques and optimizing data preprocessing and training pipeline. Achieved <strong>+10% improvement</strong> over baseline accuracy, validating results against published benchmarks.
-</p>
-<p><strong>Tech Stack:</strong> Python • TensorFlow/PyTorch • NumPy • Pandas • Matplotlib</p>
+<tr>
+<td width="50%">
+<h3 align="center">📊 Customer Churn Prediction</h3>
+<div align="center">  
+<br>
+<p><strong>Scikit-learn, Pandas, Matplotlib</strong></p>
+<p>End-to-end ML pipeline achieving <strong>~80% accuracy</strong> with actionable insights to reduce attrition.</p>
+</div>
+</td>
 
----
-
-### 🌐 Automated Network Monitoring System
-<p align="left">
-Python-based network monitoring tool for tracking device status, traffic analysis, and real-time alerts. Built interactive dashboards with Flask/Streamlit for visualizing network health and performance metrics.
-</p>
-<p><strong>Tech Stack:</strong> Python • Netmiko • Paramiko • Flask • Streamlit • MySQL</p>
-
----
-
-### 📊 Customer Churn Prediction
-<p align="left">
-End-to-end ML pipeline for predicting customer churn using telecom dataset. Performed comprehensive EDA, feature engineering, and model training (Logistic Regression, Random Forest) achieving <strong>~80% accuracy</strong>. Delivered actionable insights to reduce attrition.
-</p>
-<p><strong>Tech Stack:</strong> Python • Scikit-learn • Pandas • Matplotlib • Seaborn</p>
-
----
-
-### 📈 Sales Data Analysis & Dashboard
-<p align="left">
-Analyzed 50k+ retail sales records with Python and SQL, uncovering trends and seasonal patterns. Built interactive Tableau/Power BI dashboard highlighting KPIs, top products, and regional insights.
-</p>
-<p><strong>Tech Stack:</strong> Python • Pandas • SQL • Tableau • Power BI</p>
+<td width="50%">
+<h3 align="center">📈 Sales Analytics Dashboard</h3>
+<div align="center">  
+<br>
+<p><strong>Python, SQL, Tableau, Power BI</strong></p>
+<p>Analyzed 50k+ records with interactive dashboards highlighting KPIs and regional insights.</p>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -152,16 +169,16 @@ Analyzed 50k+ retail sales records with Python and SQL, uncovering trends and se
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHAISTTAA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAISTTAA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAISTTAA&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAISTTAA&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -170,15 +187,10 @@ Analyzed 50k+ retail sales records with Python and SQL, uncovering trends and se
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAISTTAA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaista-afreen-9b0769279/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaista7afreen3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername)
-
-### 📊 Profile Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical)
 
 </div>
 
@@ -193,6 +205,8 @@ Analyzed 50k+ retail sales records with Python and SQL, uncovering trends and se
 <div align="center">
   
 ### 💡 *"Building the future, one commit at a time"*
+
+![Visitor Count](https://profile-counter.glitch.me/SHAISTTAA/count.svg)
 
 </div>
 
