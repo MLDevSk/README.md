@@ -1,8 +1,18 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Coding" width="500"/>
+</div>
+
 # Hi there, I'm Shaista Afreen 👋
 
+<div align="center">
+  
 **AI/ML Engineer | Full-Stack Developer | Open Source Contributor**
 
 Passionate about building intelligent systems, scalable applications, and automating complex workflows. I work across the full stack—from deep learning models to production-ready web applications.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Full-Stack+Developer;Open+Source+Contributor;Deep+Learning+Enthusiast" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -85,7 +95,13 @@ Enterprise network simulation with VLAN configuration, OSPF routing, and firewal
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
 ## 📊 GitHub Stats
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
 
@@ -93,14 +109,24 @@ Enterprise network simulation with VLAN configuration, OSPF routing, and firewal
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
 
+</div>
+
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/yourusername) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:shaista7afreen3@gmail.com)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/yourusername) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shaista7afreen3@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
   <i>Open to collaborations in AI/ML, Network Automation, and Full-Stack Development</i>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
 </div>
